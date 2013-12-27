@@ -1,0 +1,8 @@
+﻿<Window x:Class="VKStatistic.dialogs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="dialogs" Height="300" Width="300">
+    <Grid>
+        <WebBrowser Name="authorisationpage"></WebBrowser>
+    </Grid>
+</Window>
